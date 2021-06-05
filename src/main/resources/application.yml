@@ -1,0 +1,5 @@
+
+##HDFS文件系统服务器的地址以及端口
+hdfs:
+  path: hdfs://localhost:50070
+  user: user
